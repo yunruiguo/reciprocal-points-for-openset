@@ -1,0 +1,6 @@
+cifar10_splits/
+OSCRI_encoder/
+wide_resnet/
+__pycache__/
+OSCRI_encoder*
+wide_resnet*

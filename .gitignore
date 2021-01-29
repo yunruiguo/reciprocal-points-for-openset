@@ -2,5 +2,6 @@ cifar10_splits/
 OSCRI_encoder/
 wide_resnet/
 __pycache__/
+.idea/
 OSCRI_encoder*
 wide_resnet*
